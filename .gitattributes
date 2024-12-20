@@ -1,0 +1,7 @@
+# Ensure text files have consistent line endings
+* text=auto
+
+# Explicitly define file types
+*.sh text eol=lf
+*.py text eol=lf
+*.bat text eol=crlf
